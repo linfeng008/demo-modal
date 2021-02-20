@@ -1,0 +1,23 @@
+{
+  "name": "demo-modal",
+  "version": "1.0.0",
+  "description": "模态框",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linfeng008/demo-modal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linfeng008/demo-modal/issues"
+  },
+  "homepage": "https://github.com/linfeng008/demo-modal#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
